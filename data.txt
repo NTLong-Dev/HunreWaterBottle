@@ -1,0 +1,1 @@
+$amount = $_POST['tongtien1'];
